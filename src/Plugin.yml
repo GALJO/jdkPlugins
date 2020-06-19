@@ -1,0 +1,4 @@
+main: me.gdurro.Plugin1.Main
+name: testPlugin
+version: 1.0
+author: GJ
